@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project uses **deep learning models** to classify different types of skin cancer. It provides a **Streamlit web app** that allows users to upload an image and predict the type of skin lesion.
 
+## 📷 Screenshot
+![Streamlit Screenshot](Screenshot.png)
+
 ## 🚀 Features
 - **Multiple Deep Learning Models** (VGG16, EfficientNet, ResNet, MobileNet, etc.)
 - **Streamlit Web App** for real-time predictions
@@ -15,9 +18,6 @@ This project uses **deep learning models** to classify different types of skin c
 3. **ResNet50**
 4. **MobileNet**
 5. **Custom CNN Model**
-
-## 📷 Screenshot
-![Streamlit Screenshot](Screenshot.png)
 
 ## 📂 Data Directory Structure
 To ensure the training pipeline runs correctly, the dataset should be structured as follows:
