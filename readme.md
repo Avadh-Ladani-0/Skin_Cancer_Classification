@@ -17,7 +17,7 @@ This project uses **deep learning models** to classify different types of skin c
 5. **Custom CNN Model**
 
 ## 📷 Screenshot
-![Streamlit Screenshot](screenshot.png)
+![Streamlit Screenshot](Screenshot.png)
 
 ## 📂 Data Directory Structure
 To ensure the training pipeline runs correctly, the dataset should be structured as follows:
